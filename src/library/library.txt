@@ -1,0 +1,89 @@
+video,in,Venom Let There Be Carnage,Andy Serkis,Tom Hardy,97,6.8
+video,out,Eternals,Chloé Zhao,Gemma Chan,157,7.1
+video,in,Dune,Denis Villeneuve,Timothée Chalamet,155,8
+video,in,Army of Thieves,Matthias Schweighöfer,Matthias Schweighöfer,127,6.9
+video,out,Free Guy,Shawn Levy,Ryan Reynolds,115,7.8
+video,in,Gunpowder Milkshake,Navot Papushado,Karen Gillan,114,6.5
+video,in,Venom,Ruben Fleischer,Tom Hardy,112,6.8
+video,in,Halloween Kills,David Gordon Green,Jamie Lee Curtis,105,7
+video,in,American Badger,Kirk Caouette,Andrea Stefancikova,88,6.3
+video,out,The Addams Family 2,Greg Tiernan,Oscar Isaac,93,7.4
+video,in,Shang-Chi and the Legend of the Ten Rings,Destin Daniel Cretton,Simu Liu,132,7.7
+video,out,Snake Eyes: G.I. Joe Origins,Robert Schwentke,Henry Golding,121,6.9
+video,in,The Vault,Jaume Balagueró,Freddie Highmore,118,7.1
+video,in,The Deep House,Alexandre Bustillo,Camille Rowe,85,5.5
+audiobook,in,Think Like a Monk: The Secret of How to Harness the Power of Positivity and Be Happy Now,Jay Shetty,Unknown,654,4.9
+audiobook,in,Ikigai: The Japanese Secret to a Long and Happy Life,Héctor García,Unknown,103,4.6
+audiobook,in,The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,Mark Manson,Unknown,467,4.4
+audiobook,in,Atomic Habits: An Easy and Proven Way to Build Good Habits and Break Bad Ones,James Clear,Unknown,485,4.6
+audiobook,in,Life's Amazing Secrets: How to Find Balance and Purpose in Your Life,Gaur Gopal Das,Unknown,505,4.6
+audiobook,out,Sapiens,Yuval Noah Harari,Unknown,918,4.6
+audiobook,in,Extraordinary Leadership,Robin Sharma,Unknown,66,4.1
+audiobook,in,The Intelligent Investor Rev Ed.,Benjamin Graham,Unknown,1068,4.4
+audiobook,out,Rich Dad Poor Dad: What the Rich Teach Their Kids About Money - That the Poor and Middle Class Do Not!,Robert T. Kiyosaki,Unknown,369,4.5
+audiobook,in,The 5AM Club: Own Your Morning. Elevate Your Life.,Robin Sharma,Unknown,664,4.4
+audiobook,in,Influence: The Psychology of Persuasion,Robert B. Cialdini,Unknown,606,4.4
+audiobook,out,Dream With Your Eyes Open: An Entrepreneurial Journey,Ronnie Screwvala,Unknown,439,3.6
+audiobook,out,The Sandman,Neil Gaiman,Unknown,654,5
+audiobook,out,How to Wout Friends and Influence People,Dale Carnegie,Unknown,485,4.5
+audiobook,out,The Alchemist: A Fable About Following Your Dream,Paulo Coelho,Unknown,240,4.6
+newspaper,in,The Evolution of Kratos,Alyse Stanley,12671905,The Washington Post,2022-11-13
+newspaper,in,The tech CEO spending millions to stop Elon Musk,Gerrit De Vynck,21426001,USA Today,2022-11-13
+newspaper,out,Facebook thought pandemic onloute shopping would last forever. It didn’t.,Naomi Nix and Jaclyn Peiser,18686311,New York Times,2022-11-10
+newspaper,out,How to avoid falling for and spreading misinformation online,Heather Kelly,17381460,Los Angeles Times,2022-11-09
+newspaper,out,How Facebook and TikTok are helping push Stop the Steal in Brazil,Elizabeth Dwoskin,22060979,New York Post,2022-10-29
+newspaper,in,Why G4 failed,Newsday,20493630,Nathan Grayson,2022-10-21
+newspaper,in,Biden issues order boosting privacy checks for data flows from Europe,Cristiano Lima,41550640,Chicago Tribune,2022-10-07
+newspaper,in,I have a work phone. Can I keep my phone number if I leave my job?,Danielle Abril,21879036,The Wall Street Journal,2022-09-30
+newspaper,in,Is crypto a house of cards?,Steven Zeitchik,17101131,Tampa Bay Times,2022-09-22
+newspaper,in,Is Amazon Prime worth it for you?,Heather Kelly and Rachel Lerman,39588221,Daily Herald,2022-09-15
+newspaper,out,How T-Mobile and Space X are teaming up to give you coverage from space,Chris Velazco,72199874,The Washington Post,2022-08-30
+newspaper,out,Amazon to shut down its Telehealth offering,Caroline O’Donovan,24345617,New York Post,2022-08-24
+newspaper,in,This robot quarterback could be the future of football practice,Pranshu Verma,43178471,Los Angeles Times,2022-08-19
+newspaper,in,Toddlers and technology: What every parent should decide early,Tatum Hunter,11448750,Chicago Tribune,2022-07-29
+newspaper,in,Chinese posed as Texans on social media to attack rare earths rivals,Joseph Menn,21234560,Newsday,2022-06-28
+eTextbook,out,Freedom Dreams : The Black Radical Imagination,Robin D.G. Kelley.,9780807009789,Beacon Press,2002-10-03
+eTextbook,out,A theory of fun for game design,Raph Koster,9781449363178,A theory of fun for game design,2013-01-28
+eTextbook,in,Cloud computing bible,Barrie Sosinsky,1118023994, Wiley,2011-06-17
+eTextbook,in,The breadwinner,Deborah Ellis,1554980070,Douglas & McIntyre,2000-03-11
+eTextbook,out,Coasts in Crisis : A Global Challenge,Gary Griggs,9520966856,University of California Press,2017-07-22
+eTextbook,in,Hadoop security,Ben Spivey & Joey Echeverria,1491901349,O'Reilly Media,2015-11-07
+eTextbook,in,Digital asset management,David Austerberry,1136033610,Focal Press,2006-09-23
+eTextbook,in,Just mercy : a story of justice and redemption,Bryan Stevenson,9780812994537,Spiegel & Grau,2014-06-15
+eTextbook,in,What is morphology?,Mark Aronoff and Kirsten Fudeman,1444351761,Wiley-Blackwell,2010-12-03
+eTextbook,out,Occupation-based activity analysis,Heather Thomas,1630912093,SLACK Incorporated,2015-04-09
+eTextbook,out,Sexuality : a very short introduction,Véronique Mottier,1281515345,Routledge,2008-10-25
+eTextbook,in,After the Death of God,Gianni Vattimo,1282872125,Columbia University Press,2010-06-17
+eTextbook,out,Smartphone video storytelling,Robb Montgomery,1351796550,Routledge,2018-04-25
+eTextbook,in,Humanity a moral history of the twentieth century,Jonathan Glover,1283596857,Yale University Press,2012-05-12
+eTextbook,out,Feminism is for everybody : passionate politics,Bell Hooks,1317588363,Routledge,2014-01-19
+book,in,Fairy Tale,Stephen King,382749157,Scribner,2022-09-06
+book,out,Stolen Focus: Why You Can't Pay Attention--and How to Think Deeply Again,Johann Hari,438117351,Crown,2022-01-25
+book,in,Eleanor Oliphant Is Completely Fine,Gail Honeyman,735220689,Pamela Dorman,2017-05-09
+book,in,Sea of Tranquility: A novel,Emily St. John ,367281794,Knopf,2022-04-05
+book,in,Take My Hand,Dolen Perkins,873562878,Berkley,2022-04-12
+book,in,Red Mountain: A Novel,Boo Walker,991301870,Knopf,2016-10-15
+book,out,The Silent Wife,Kerry Fisher ,376784446,Hussey,2017-05-02
+book,in,Demon Copperhead: A Novel,Barbara Kingsolver,783567253,Harper,2022-10-18
+book,in,The Light We Carry: Overcoming in Uncertain Times,Michelle Obama,367948764,Crown,2022-11-15
+book,out,The Midnight Library: A Novel,Matt Haig ,456792457,Penguin Audio ,2020-09-29
+book,in,The One For Me,Rachel Hanna ,467839256,Scribner,2013-03-22
+book,out,City on Fire: A Novel,Don Winslow,367499256,William Morrow,2022-04-26
+book,in,The Maid: A Novel,Nita Prose,347012537,Ballantine Books,2022-01-04
+book,out,Lessons in Chemistry,Bonnie Garmus ,781935268,Doubleday,2022-04-05
+book,in,The Beach House,Rachel Hanna ,1696781868,Hussey,2019-08-13
+publishedPaper,in,Artificial Intelligence in Education: A Review,Lijia Chen,2169-3536,IEEE Access,2020-04-17
+publishedPaper,in,Deep Residual Learning for Image Recognition,Kaiming He,1063-6919,CVPR,2016-06-30
+publishedPaper,in,A Comprehensive Survey on Graph Neural Networks,Zonghan Wu,8893-8914,Neural Networks ,2022-04-26
+publishedPaper,in,Architecture and Mental Health,Meriam Mohammed,9110-5758,BizzConnect,2022-08-29
+publishedPaper,out,Fusing Blockchain and AI With Metaverse: A Survey,Qinglin Yang,4273-8374,Computer Society ,2022-07-23
+publishedPaper,in,Understanding of a convolutional neural network,Saad Albawi,4270-8902,ICET,2017-06-12
+publishedPaper,in,Image quality assessment: from error visibility to structural similarity,Zhou Wang,3280-3379,IEEE Access,2019-04-21
+publishedPaper,out,An Overview on Edge Computing Research,Keyan Cao,1292-8749,IEEE Access,2022-04-04
+publishedPaper,in,Taking the Human Out of the Loop: A Review of Bayesian Optimization,Bobak Shahriari,4279-9478,Proceedings of the IEEE,2015-12-10
+publishedPaper,in,A fast and elitist multiobjective genetic algorithm: NSGA-II,K. Deb,3229-7819,Transactions on Evolutionary Computation,2018-05-19
+publishedPaper,out,A Comprehensive Survey on Transfer Learning,Fuzhen Zhuang,4482-3923,Proceedings of the IEEE,2022-05-21
+publishedPaper,in,A Comprehensive Review on Malware Detection Approaches,Ömer Aslan Aslan,3327-9563,IEEE Access,2021-07-29
+publishedPaper,in,Event-Based Vision: A Survey,Guillermo Gallego,9821-0456,IEEE Transactions on Pattern Analysis ,2017-07-08
+publishedPaper,out,Edge Computing: Vision and Challenges,Weisong Shi,1402-4892,Internet of Things Journal,2020-02-05
+publishedPaper,in,A Tutorial on 5G NR V2X Communications,Mate Boban,2786-6219,IEEE Communications Surveys & Tutorials,2013-07-25
